@@ -44,7 +44,7 @@ technical_background:
     "Intern - NASA",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["PHP"]
 2024 Goals: ["Create more data visualization tools."]
 hobbies: ["Running", "Knitting", "Watercolor"]
 ```
