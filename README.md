@@ -44,7 +44,7 @@ technical_background:
     "NASA - Intern",
   ]
   
-currently_learning: ["PHP"]
+currently_learning: ["PHP", "C++"]
 2024 Goals: ["Create more data visualization tools."]
 hobbies: ["Running", "Knitting", "Watercolor"]
 ```
