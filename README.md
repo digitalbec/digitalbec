@@ -41,7 +41,7 @@ technical_background:
     "Software Engineer"
     "Data Integration Engineer",
     "Geologist",
-    "Intern - NASA",
+    "NASA - Intern",
   ]
   
 currently_learning: ["PHP"]
